@@ -1,0 +1,23 @@
+{
+    "yandex": {
+        "head_script": "<script>window.yaContextCb = window.yaContextCb || [];</script>\n<script src='https://yandex.ru/ads/system/context.js' async></script>",
+        "blocks": [
+            {
+                "id": "R-A-11991079-3",
+                "type": "floorAd",
+                "platform": "desktop",
+                "container": "yandex-rtb-ad"
+            },
+            {
+                "id": "R-A-11991079-4",
+                "type": "stickyAd",
+                "platform": "touch",
+                "container": "yandex-mobile-ad"
+            }
+        ]
+    },
+    "adlook": {
+        "head_script": "<script src='https://sdk.adlook.tech/inventory/core.js' async></script>",
+        "body_script": "<script>...код Adlook...</script>"
+    }
+}

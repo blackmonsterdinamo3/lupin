@@ -1,0 +1,35 @@
+{
+    "title": "Название аниме",
+    "description": "Описание аниме",
+    "genres": ["Жанр 1", "Жанр 2"],
+    "rating": 4.5,
+    "seasons": [
+        {
+            "number": 1,
+            "title": "Сезон 1",
+            "episodes": [
+                {
+                    "number": 1,
+                    "title": "Серия 1",
+                    "video": "episode1.mp4"
+                },
+                {
+                    "number": 2,
+                    "title": "Серия 2",
+                    "video": "episode2.mp4"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Сезон 2",
+            "episodes": [
+                {
+                    "number": 1,
+                    "title": "Серия 1",
+                    "video": "episode1.mp4"
+                }
+            ]
+        }
+    ]
+}

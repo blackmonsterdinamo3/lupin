@@ -1,0 +1,318 @@
+{
+    "Horonagi": {
+        "password": "$2y$10$rNLHKnLOg4PCNkWZaAGwJumc24pR2e37C1K1V8Lz1TQntgbDReK0W",
+        "email": "blackmonsterdinamo3@gmail.com",
+        "is_admin": true,
+        "rated": {
+            "Dandadan": "10",
+            "test": "4",
+            "test2": "9",
+            "%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C": "2",
+            "0000": "8",
+            "12": "5",
+            "kunmin": "10",
+            "": "2",
+            "novoe": "8",
+            "наруто_тест": "7",
+            "Боруто": "7",
+            "Новость": "8",
+            "новое_крутое": "3",
+            "Стальной_Алхимик": "5",
+            "тестовое_аниме": "6",
+            "проверка": "6",
+            "1": "6",
+            "122": "5",
+            "21w": "6",
+            "2": "7",
+            "asdasdasd": "10",
+            "але_да?": "3",
+            "1234567890xdxd": "9",
+            "1333": "4",
+            "41234124": "9",
+            "00000000000": "10",
+            "2222222222": "7",
+            "0000000000000000000000": "6",
+            "12312312312412": "5",
+            "21312312312312": "4",
+            "Дандадан_18+": "6",
+            "000000000000": "7",
+            "11": "4",
+            "ЯЯЯЯЯЯЯ": "6",
+            "112": "8",
+            "12121212121": "10",
+            "Дандадан": "10",
+            "dororo": "8",
+            "Solo-Leveling": "10",
+            "Erased": "10",
+            "Beaststars": "8",
+            "BlueBox": "8",
+            "SpiceandWolf": "10",
+            "Summer_Time_Rendering": "10",
+            "Violet Evergarden": "10",
+            "Zom_100": "9"
+        },
+        "history": {
+            "Dandadan": {
+                "folder": "Dandadan",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742060646,
+                "date": "2025-03-15 20:44:06"
+            },
+            "2222222222": {
+                "folder": "2222222222",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742060791,
+                "date": "2025-03-15 20:46:31"
+            },
+            "Стальной_Алхимик": {
+                "folder": "Стальной_Алхимик",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742099146,
+                "date": "2025-03-16 07:25:46"
+            },
+            "12121212121": {
+                "folder": "12121212121",
+                "season": "1",
+                "episode": "2",
+                "timestamp": 1742105312,
+                "date": "2025-03-16 09:08:32"
+            },
+            "Дандадан_18+": {
+                "folder": "Дандадан_18+",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742100276,
+                "date": "2025-03-16 07:44:36"
+            },
+            "Дандадан": {
+                "folder": "Дандадан",
+                "season": "1",
+                "episode": "12",
+                "timestamp": 1742107243,
+                "date": "2025-03-16 09:40:43"
+            },
+            "dororo": {
+                "folder": "dororo",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742106053,
+                "date": "2025-03-16 09:20:53"
+            },
+            "Solo-Leveling": {
+                "folder": "Solo-Leveling",
+                "season": "2",
+                "episode": "11",
+                "timestamp": 1742443317,
+                "date": "2025-03-20 07:01:57"
+            },
+            "Hellsparadise": {
+                "folder": "Hellsparadise",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742146365,
+                "date": "2025-03-16 20:32:45"
+            },
+            "Rezero": {
+                "folder": "Rezero",
+                "season": "3",
+                "episode": "1",
+                "timestamp": 1742155259,
+                "date": "2025-03-16 23:00:59"
+            },
+            "GGO": {
+                "folder": "GGO",
+                "season": "2",
+                "episode": "1",
+                "timestamp": 1742156618,
+                "date": "2025-03-16 23:23:38"
+            },
+            "shangri-la-frontier": {
+                "folder": "shangri-la-frontier",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742156809,
+                "date": "2025-03-16 23:26:49"
+            },
+            "ParipiKoumei": {
+                "folder": "ParipiKoumei",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742346310,
+                "date": "2025-03-19 04:05:10"
+            },
+            "CodeGeass": {
+                "folder": "CodeGeass",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742947680,
+                "date": "2025-03-26 03:08:00"
+            },
+            "Beaststars": {
+                "folder": "Beaststars",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742522566,
+                "date": "2025-03-21 05:02:46"
+            },
+            "Goblin Slayer": {
+                "folder": "Goblin Slayer",
+                "season": "3",
+                "episode": "1",
+                "timestamp": 1742429405,
+                "date": "2025-03-20 03:10:05"
+            },
+            "SpiceandWolf": {
+                "folder": "SpiceandWolf",
+                "season": "2",
+                "episode": "1",
+                "timestamp": 1742430226,
+                "date": "2025-03-20 03:23:46"
+            }
+        },
+        "planned": {
+            "1": "000000000000",
+            "2": "Дандадан_18 ",
+            "3": "dororo"
+        },
+        "favorites": [
+            "Стальной_Алхимик",
+            "000000000000",
+            "12121212121",
+            "dororo"
+        ],
+        "dropped": [
+            "2222222222",
+            "dororo"
+        ]
+    },
+    "lilvinyl": {
+        "password": "$2y$10$Fa3y0365Zf7agNkDZAdeRu4OkAWhEdzcgkF1fkv9eW7ujHVzCURg.",
+        "email": "egormarkov619@gmail.com",
+        "is_admin": true
+    },
+    "aL1m": {
+        "password": "$2y$10$4656VnO0S2G9\/.ASW.42.eHhbBDnXYb4C7L6RUumq9JkpThPKo2m.",
+        "email": "kamilalimov800@gmail.com",
+        "is_admin": true,
+        "planned": [
+            "Dandadan"
+        ],
+        "favorites": [
+            "Naruto"
+        ],
+        "dropped": [
+            "Dandadan"
+        ],
+        "rated": {
+            "Dandadan": "10",
+            "Naruto": "10",
+            "Noragami": "7",
+            "Kaijuu№8": "8",
+            "Monolog": "7",
+            "Kimi_no_Na_wa": "8",
+            "Jujutsukaisen": "8",
+            "Erased": "9",
+            "DemonSlayer": "8",
+            "Cyberpunk": "7",
+            "Bleach": "8",
+            "OshinoKo": "6",
+            "Spyxfamily": "8",
+            "Solo-Leveling": "7",
+            "Suzume_no_Tojimari": "8",
+            "Tengoku_Daimakyou": "9",
+            "TheShapeOfVoice": "9",
+            "WindBreaker": "6",
+            "Zom_100": "8",
+            "chainsaw-man": "8",
+            "Дандадан": "7",
+            "Hellsparadise": "9"
+        },
+        "history": {
+            "Dororo": {
+                "folder": "Dororo",
+                "season": "1",
+                "episode": "2",
+                "timestamp": 1742947196,
+                "date": "2025-03-26 02:59:56"
+            },
+            "chainsaw-man": {
+                "folder": "chainsaw-man",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742382460,
+                "date": "2025-03-19 14:07:40"
+            },
+            "CodeGeass": {
+                "folder": "CodeGeass",
+                "season": "1",
+                "episode": "7",
+                "timestamp": 1742948945,
+                "date": "2025-03-26 03:29:05"
+            },
+            "Naruto": {
+                "folder": "Naruto",
+                "season": "2",
+                "episode": "1",
+                "timestamp": 1742949181,
+                "date": "2025-03-26 03:33:01"
+            },
+            "Solo-Leveling": {
+                "folder": "Solo-Leveling",
+                "season": "2",
+                "episode": "13",
+                "timestamp": 1742726742,
+                "date": "2025-03-23 13:45:42"
+            },
+            "Beaststars": {
+                "folder": "Beaststars",
+                "season": "3",
+                "episode": "11",
+                "timestamp": 1742485101,
+                "date": "2025-03-20 18:38:21"
+            },
+            "Cyberpunk": {
+                "folder": "Cyberpunk",
+                "season": "1",
+                "episode": "2",
+                "timestamp": 1742948961,
+                "date": "2025-03-26 03:29:21"
+            },
+            "Erased": {
+                "folder": "Erased",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742948967,
+                "date": "2025-03-26 03:29:27"
+            },
+            "Jujutsukaisen": {
+                "folder": "Jujutsukaisen",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742948977,
+                "date": "2025-03-26 03:29:37"
+            },
+            "Hellsparadise": {
+                "folder": "Hellsparadise",
+                "season": "1",
+                "episode": "1",
+                "timestamp": 1742948996,
+                "date": "2025-03-26 03:29:56"
+            }
+        }
+    },
+    "AleksAndrino": {
+        "password": "$2y$10$pUN8aw6ME\/8rZ333eRX82u57\/VnSDjLHPxWJLjINXnqbFAwuHTiC.",
+        "email": "aborkin.shura@yandex.ru",
+        "is_admin": false,
+        "rated": {
+            "проверка": "1",
+            "тестовое_аниме": "1",
+            "але_да?": "1"
+        },
+        "dropped": [],
+        "history": []
+    }
+}
